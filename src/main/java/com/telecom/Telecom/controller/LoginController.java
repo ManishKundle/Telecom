@@ -13,5 +13,6 @@ public class LoginController {
 		map.put("manoj", 1500);
 
 		map.forEach((k, v) -> System.out.println("Key = " + k + " Value = " + v));
+
 	}
 }
